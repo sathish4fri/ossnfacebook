@@ -432,20 +432,20 @@ Icons
 	height: 19px;
 }
 
-.ossn-icons-topbar-friends-new{
-	background-position: 0 -76px ;
-	width: 22px;
+ossn-icons-topbar-friends-new{
+	background-position: -166px -83px;
+	width: 21px;
 	height: 19px;
 }
 
 .ossn-icons-topbar-messages-new{
-	background-position: 0 -127px ;
+	background-position: -65px -85px ;
 	width: 21px;
 	height: 19px;
 }
 
 .ossn-icons-topbar-notifications-new{
-	background-position: 0 -103px ;
+	background-position: -126px -147px ;
 	width: 19px;
 	height: 20px;
 }
