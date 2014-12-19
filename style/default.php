@@ -432,7 +432,7 @@ Icons
 	height: 19px;
 }
 
-ossn-icons-topbar-friends-new{
+.ossn-icons-topbar-friends-new{
 	background-position: -166px -83px;
 	width: 21px;
 	height: 19px;
